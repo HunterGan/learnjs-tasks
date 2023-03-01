@@ -1,0 +1,2 @@
+let thirdPlanetName;
+let ourPlanetName;
